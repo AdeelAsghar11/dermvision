@@ -1,0 +1,26 @@
+# Python
+backend-django/venv/
+backend-django/venv310/
+backend-django/__pycache__/
+backend-django/**/__pycache__/
+backend-django/*.pyc
+backend-django/media/
+
+# Node
+backend-node/node_modules/
+backend-node/uploads/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+**/.env
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
